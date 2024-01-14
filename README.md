@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudhanshu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ritwik</h1>
 <h3 align="center">I'm a Frontend Developer and UI/UX Designer.</h3>
 <br/>
 <br/>
@@ -15,11 +15,11 @@
 
 - 😄 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/kaneki-ken260)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-new-tau-nine.vercel.app/)**
 
-- 📫 How to reach me **ritwikrajput620@gmail.com**📩
+- 📫 How to reach me **shekharsudhanshu8352@gmail.com**📩
 
-- ⚡ Fun fact **I love to watch series and animes.**
+<!-- - ⚡ Fun fact **I love to watch series and animes.** -->
 <br/>
 <br/>
 <p align="left">
@@ -31,7 +31,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a> 
+    <!-- <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -56,9 +56,9 @@
 
 <a href="https://github.com/kaneki-ken260/github-readme-activity-graph"><img alt="Ritwik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaneki-ken260&bg_color=0D1117&color=8A87FF&line=8A87FF&point=FFFFFF&hide_border=true" /></a>
 
-| ![Ritwik's github stats](https://github-readme-stats.vercel.app/api?username=kaneki-ken260&show_icons=true&theme=tokyonight) | ![Ritwik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaneki-ken260&theme=tokyonight)                                                                                                         |
+| ![Ritwik's github stats](https://github-readme-stats.vercel.app/api?username=shekhar8352&show_icons=true&theme=tokyonight) | ![Ritwik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhar8352&theme=tokyonight)                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaneki-ken260&theme=tokyonight)                  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kaneki-ken260&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhar8352&theme=tokyonight)                  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shekhar8352&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <br/>
 <p align="left">
