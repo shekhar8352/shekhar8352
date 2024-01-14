@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ritwik</h1>
-<h3 align="center">I'm a Frontend Developer and UI/UX Designer.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudhanshu</h1>
+<h3 align="center">I'm a Full Stack Web Developer and UI/UX Designer.</h3>
 <br/>
 <br/>
 
