@@ -54,7 +54,7 @@
 
 
 
-<a href="https://github.com/kaneki-ken260/github-readme-activity-graph"><img alt="Ritwik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaneki-ken260&bg_color=0D1117&color=8A87FF&line=8A87FF&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shekhar8352/github-readme-activity-graph"><img alt="Sudhanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shekhar8352&bg_color=0D1117&color=8A87FF&line=8A87FF&point=FFFFFF&hide_border=true" /></a>
 
 | ![Sudhanshu's github stats](https://github-readme-stats.vercel.app/api?username=shekhar8352&show_icons=true&theme=tokyonight) | ![Sudhanshu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhar8352&theme=tokyonight)                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
