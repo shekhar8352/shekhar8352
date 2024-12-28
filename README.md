@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudhanshu</h1>
-<h3 align="center">I'm a Full Stack Web Developer</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 <br/>
 <br/>
 
@@ -11,7 +11,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 💻 I’m currently learning **Data Structures and Algorithms.**
+- 💻 I’m currently learning **GoLang and Rust**
 
 - 😄 I’m looking to collaborate on **OpenSource Projects**
 
