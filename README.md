@@ -1,6 +1,3 @@
-
-Here's a compact and creative bio for your GitHub:
-
 👋 Hey, I’m Sudhanshu Shekhar — a passionate problem solver who turns coffee ☕ into clean, scalable code.
 
 💡 Full-Stack Engineer & GenAI Enthusiast:
