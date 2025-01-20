@@ -19,7 +19,7 @@ I build powerful backends, design user-first frontends, and dabble in AI to crea
 </p>
 <br/>
 
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sudhanshu-shekhar-631683204/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B07brUxOhSsarDPUcGFa%2F1Q%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
