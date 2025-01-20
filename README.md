@@ -1,60 +1,16 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudhanshu</h1>
-<h3 align="center">I'm a Software Engineer</h3>
-<br/>
-<br/>
 
-<!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=kaneki-ken260&theme=dracula&no-bg=true" /> -->
+Here's a compact and creative bio for your GitHub:
 
-## 🙋‍♂️ About Me
+👋 Hey, I’m Sudhanshu Shekhar — a passionate problem solver who turns coffee ☕ into clean, scalable code.
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+💡 Full-Stack Engineer & GenAI Enthusiast:
+I build powerful backends, design user-first frontends, and dabble in AI to create systems that think before you do. 🚀
 
+🌍 From architecting APIs that scale the world to optimizing GenAI for e-commerce, I love pushing tech boundaries.
 
-- 💻 I’m currently learning **GoLang and Rust**
+🔧 Fav Stack: Python, Golang, JavaScript, Redis, Docker, Django, NodeJS.
 
-- 😄 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-new-tau-nine.vercel.app/)**
-
-- 📫 How to reach me **shekharsudhanshu8352@gmail.com**📩
-
-<!-- - ⚡ Fun fact **I love to watch series and animes.** -->
-<br/>
-<br/>
-<p align="left">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</p>
-<br/>
-<br/>
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <!-- <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>  -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a> 
-    
-</p>
-<br/>
-<br/>
-<p align="left">
-<a  href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</p>
-<br/>
-<br/>
-
-
-
-<a href="https://github.com/shekhar8352/github-readme-activity-graph"><img alt="Sudhanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shekhar8352&bg_color=0D1117&color=8A87FF&line=8A87FF&point=FFFFFF&hide_border=true" /></a>
+🏆 Achievements: LeetCode Knight, Codeforces Specialist, and always looking for the next challenge!
 
 | ![Sudhanshu's github stats](https://github-readme-stats.vercel.app/api?username=shekhar8352&show_icons=true&theme=tokyonight) | ![Sudhanshu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhar8352&theme=tokyonight)                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
